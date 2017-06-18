@@ -1,0 +1,56 @@
+Klasa: 1
+-----
+1Level: 1
+1Experience: 0
+1statPoints: 0
+1abilityPoints: 0
+1hpUp: 0
+1enUp: 0
+1regUp: 0
+1movUp: 0
+1pdUp: 0
+1sdUp: 0
+-----
+2Level: 1
+2Experience: 0
+2statPoints: 0
+2abilityPoints: 0
+2hpUp: 0
+2enUp: 0
+2regUp: 0
+2movUp: 0
+2pdUp: 0
+2sdUp: 0
+-----
+3Level: 1
+3Experience: 0
+3statPoints: 0
+3abilityPoints: 0
+3hpUp: 0
+3enUp: 0
+3regUp: 0
+3movUp: 0
+3pdUp: 0
+3sdUp: 0
+-----
+4Level: 1
+4Experience: 0
+4statPoints: 0
+4abilityPoints: 0
+4hpUp: 0
+4enUp: 0
+4regUp: 0
+4movUp: 0
+4pdUp: 0
+4sdUp: 0
+-----
+5Level: 1
+5Experience: 0
+5statPoints: 0
+5abilityPoints: 0
+5hpUp: 0
+5enUp: 0
+5regUp: 0
+5movUp: 0
+5pdUp: 0
+5sdUp: 0
